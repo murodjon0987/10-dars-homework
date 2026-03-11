@@ -19,17 +19,44 @@
   background: #eae0e0;
 }
 
-.t1,.t2,.t3,.t4{
+.t1{
   width: 40px;
   height: 40px;
   background: #ff0000;
   position: absolute;
   transform: rotate(45deg);
+  top: 20px;
+  left: 60px;
+}
+.t2{
+  width: 40px;
+  height: 40px;
+  background: #ff0000;
+  position: absolute;
+  transform: rotate(45deg);
+  top: 90px;
   left: 60px;
 }
 
-.t1{top:20px;}
-.t2{top:90px;}
-.t3{top:160px;}
-.t4{top:230px;}
+.t3{
+  width: 40px;
+  height: 40px;
+  background: #ff0000;
+  position: absolute;
+  transform: rotate(45deg);
+  top: 160px;
+  left: 60px;
+}
+
+.t4{
+  width: 40px;
+  height: 40px;
+  background: #ff0000;
+  position: absolute;
+  transform: rotate(45deg);
+  top: 230px;
+  left: 60px;
+}
+
+
 
